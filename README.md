@@ -1,2 +1,2 @@
 # DBZTenkaichi_by_skonafid
-Dragon Ball AF Budokai Tenkaichi 3  PDX_Edition
+Dragon Ball AF Budokai Tenkaichi 4  PDX_Edition
