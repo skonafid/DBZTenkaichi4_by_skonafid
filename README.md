@@ -1,5 +1,5 @@
 # DBZTenkaichi4_by_skonafid
-**Dragon Ball AF Budokai Tenkaichi 4  PDX_Edition**
+**Dragon Ball Z Budokai Tenkaichi 4  PDX_Edition**
 
 + Engine 3.8✅    (Created By: kkteamtenkaichi)
 + DLC Supported✅
