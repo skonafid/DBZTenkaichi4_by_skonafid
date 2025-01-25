@@ -14,16 +14,18 @@ Their site⇩
 ---------------------------------------------------------------------------------
 
 
-
+> [!WARNING]  
+> Game is still in development
 ⇩⇩⇩⇩ Download ⇩⇩⇩⇩⇩
 
  https://github.com/skonafid/DBZTenkaichi4_by_skonafid/releases 
 
 
- > [!NOTE]
+> [!NOTE]
+> Run on Playstation 2 For best experience.
+
+> [!TIP]
 > Always use 100% Save to avoid problems and see all characters.
->
-> Run on PlayStation 2 For best experience.
 
 > [!CAUTION]
 > This is warez we don't condone Piracy, Proceed with caution.
