@@ -10,22 +10,26 @@ Their site⇩
 
  https://kkteamtenkaichi.blogspot.com/p/dlc-modbin-configuration.html 
 
+> [!TIP]
+> Always use 100% Save to avoid problems and see all characters.
+
 
 ---------------------------------------------------------------------------------
 
 
 > [!WARNING]  
 > Game is still in development
+>
+
 ⇩⇩⇩⇩ Download ⇩⇩⇩⇩⇩
 
  https://github.com/skonafid/DBZTenkaichi4_by_skonafid/releases 
 
 
+
 > [!NOTE]
 > Run on Playstation 2 For best experience.
 
-> [!TIP]
-> Always use 100% Save to avoid problems and see all characters.
 
 > [!CAUTION]
 > This is warez we don't condone Piracy, Proceed with caution.
