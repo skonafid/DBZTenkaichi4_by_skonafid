@@ -6,7 +6,9 @@
 + Native PS2 Support ✅
 + PS3 Support 95% ✅
 
-Their site⇩
+Size 6GB (Compressed 3.5GB)
+
+kkteamtenkaichi site⇩
 
  https://kkteamtenkaichi.blogspot.com/p/dlc-modbin-configuration.html 
 
