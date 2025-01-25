@@ -23,7 +23,6 @@ Their site⇩
  > [!NOTE]
 > Always use 100% Save to avoid problems and see all characters.
 >
-> [!NOTE]
 > Run on PlayStation 2 For best experience.
 
 > [!CAUTION]
