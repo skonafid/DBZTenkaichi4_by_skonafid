@@ -26,4 +26,5 @@ Their site⇩
 > Run on PlayStation 2 For best experience.
 
 > [!CAUTION]
-> This is Warez we don't condone Piracy, Proceed with caution.
+> This is warez we don't condone Piracy, Proceed with caution.
+> Continue only if you own a copy of Budokai Tenkaichi 3
