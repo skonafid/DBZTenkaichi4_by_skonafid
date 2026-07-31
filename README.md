@@ -16,7 +16,7 @@
 + Copyrighted music✅
 + official Voice ✅
 
-warezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarez
+warezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwa
 
 Size 6GB (Compressed 3.5GB)
 
@@ -26,15 +26,14 @@ kkteamtenkaichi site⇩
 
 > [!TIP]
 > Always use 100% Save to avoid problems and see all characters.
-> Menus like Book info not complete. story not touched. only VS!
 
 
 ---------------------------------------------------------------------------------
 
 
 > [!WARNING]  
-> Game is still in development
->
+> Game is still in development 
+>> Menus like Book info not complete.  story not touched. only VS!
 
 ⇩⇩⇩⇩ Download ⇩⇩⇩⇩⇩
 
