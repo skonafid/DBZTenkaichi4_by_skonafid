@@ -15,6 +15,7 @@
 + Balance ✅
 + Copyrighted music✅
 + official Voice ✅
++ + Deleted/Lost Models and characters ✅
 
 warezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwa
 
