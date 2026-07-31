@@ -3,8 +3,20 @@
 
 + Engine 3.8✅    (Created By: kkteamtenkaichi)
 + DLC Supported✅
-+ Native PS2 Support ✅
-+ PS3 Support 95% ✅
++ Native PS2 Support 100% ✅
++ PS3 Support 99% ✅
++ Models converted from official games ✅
++ Better models than Team BT4 ✅
++ No crashes ✅
++ High Quality HUD and Sprites✅
++ FREE ROAM MAPS ✅
++ All the newest animations ✅
++ Variety ✅
++ Balance ✅
++ Copyrighted music✅
++ official Voice ✅
+
+warezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarez
 
 Size 6GB (Compressed 3.5GB)
 
@@ -14,6 +26,7 @@ kkteamtenkaichi site⇩
 
 > [!TIP]
 > Always use 100% Save to avoid problems and see all characters.
+> Menus like Book info not complete. story not touched. only VS!
 
 
 ---------------------------------------------------------------------------------
