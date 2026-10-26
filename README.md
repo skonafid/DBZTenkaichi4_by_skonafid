@@ -19,7 +19,7 @@
 + official Voice ✅
 + Deleted/Lost Models and characters ✅
 
-LCN-MDCwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwLCN-MDC
+LCN-MDCwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwLCN-MDC
 
 Size 6GB (Compressed 3.5GB)
 
