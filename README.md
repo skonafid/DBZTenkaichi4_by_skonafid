@@ -35,6 +35,7 @@ kkteamtenkaichi site⇩
 > [!WARNING]  
 > Game is still in development 
 >> Menus like Book info not complete.  story not touched. only VS!
+>> Music Missing
 
 ⇩⇩⇩⇩ Download ⇩⇩⇩⇩⇩
 
