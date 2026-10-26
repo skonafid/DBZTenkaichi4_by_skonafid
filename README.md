@@ -3,6 +3,8 @@
 
 + Engine 3.8✅    (Created By: kkteamtenkaichi)
 + DLC Supported✅
++ Third-Party IP's ✅
++ Licensed Content ✅
 + Native PS2 Support 100% ✅
 + PS3 Support 99% ✅
 + Models converted from official games ✅
@@ -15,9 +17,9 @@
 + Balance ✅
 + Copyrighted music✅
 + official Voice ✅
-+ + Deleted/Lost Models and characters ✅
++ Deleted/Lost Models and characters ✅
 
-warezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwa
+LCN-MDCwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwarezwLCN-MDC
 
 Size 6GB (Compressed 3.5GB)
 
@@ -28,16 +30,24 @@ kkteamtenkaichi site⇩
 > [!TIP]
 > Always use 100% Save to avoid problems and see all characters.
 
-
+🤫
 ---------------------------------------------------------------------------------
-
+🤫
 
 > [!WARNING]  
-> Game is still in development 
->> Menus like Book info not complete.  story not touched. only VS!
->> Music Missing
+> Game is Still in Development 
+>> Menus and Reference Book info not complete.
+>
+>> Music Missing.
+>
+>> Story Not Touched. only VS!
+>
+>> Characters Missing
+>
+>> Voices Missing
+>
 
-⇩⇩⇩⇩ Download ⇩⇩⇩⇩⇩
+⇩⇩⇩⇩ pre-modded pirate release ⇩⇩⇩⇩⇩
 
  https://github.com/skonafid/DBZTenkaichi4_by_skonafid/releases 
 
